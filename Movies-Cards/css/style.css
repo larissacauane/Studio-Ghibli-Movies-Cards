@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgb(26, 46, 53);
+    background-color: rgb(224, 229, 235);
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+    width: 1300px;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0 2px 23px #26395338;
+    width: 16.6rem;
+    height: 20rem;
+    margin-top: 3%;
+    box-sizing: border-box;
+    
+}
+
+/*----------The Secret World of Arrietty----------*/
+
+.arrietty-card img {
+    width: 266px;
+    height: 230px;
+}
+
+.arrietty-card h2 {
+    font-size: 18px;
+    margin: 3%;
+}
+
+.arrietty-card button {
+    margin-left:  3%;
+    width: 7rem;
+    height: 2rem;
+    border: 1px solid #DB7280;
+    border-radius: 3px;
+    outline: 0;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: white;
+    color: #DB7280;
+}
+
+.arrietty-card button:hover {
+    background-color: #DB7280;
+    color: white;
+}
+
+/*----------The Secret World of Arrietty----------*/
+
+.the{
+    background-color: violet;
+    
+}

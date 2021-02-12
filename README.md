@@ -1,5 +1,5 @@
 # Studio Ghibli Movies Cards
- Cards from some Studio Ghibli films made made with:
+ Cards from some Studio Ghibli films made with:
  * HTML5
  * CSS3
  

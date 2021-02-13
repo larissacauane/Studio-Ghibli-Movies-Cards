@@ -1,4 +1,4 @@
-# Studio Ghibli Movies Cards
+# Studio Ghibli Filmes
 
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
